@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bad4ef4-a6b6-4a31-acb3-c7ab62325d8b" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="时间预测代码" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24lWFbZkTfJeWPB9k4PUQvjfXUu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="时间预测代码" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="时间预测代码" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\小关\Desktop\时间预测\时间预测代码" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.read_cmpa01">
+    <configuration name="计算标准差" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="时间预测代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/计算标准差.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_1rain_avg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="时间预测代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_1rain_avg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_cmpa01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="时间预测代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_cmpa01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="时间预测代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remove_grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="result_only" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="时间预测代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/result_only.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read_cmpa01" />
+        <item itemvalue="Python.result_only" />
+        <item itemvalue="Python.remove_grid" />
+        <item itemvalue="Python.计算标准差" />
+        <item itemvalue="Python.04_1rain_avg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bad4ef4-a6b6-4a31-acb3-c7ab62325d8b" name="默认更改列表" comment="" />
+      <created>1644205551096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644205551096</updated>
+      <workItem from="1644205553075" duration="4749000" />
+      <workItem from="1646139177560" duration="4299000" />
+      <workItem from="1646383414926" duration="8885000" />
+      <workItem from="1647945128817" duration="12348000" />
+      <workItem from="1648212072710" duration="4856000" />
+      <workItem from="1648556743801" duration="6307000" />
+      <workItem from="1648725662726" duration="7384000" />
+      <workItem from="1652919720779" duration="5000" />
+      <workItem from="1656578795429" duration="2750000" />
+      <workItem from="1657786287860" duration="36000" />
+      <workItem from="1667458914004" duration="5286000" />
+      <workItem from="1667529167234" duration="3976000" />
+      <workItem from="1667702467817" duration="19179000" />
+      <workItem from="1667786625081" duration="11809000" />
+      <workItem from="1667959448438" duration="2418000" />
+      <workItem from="1668150213692" duration="18849000" />
+      <workItem from="1668221285771" duration="29520000" />
+      <workItem from="1668305549436" duration="19885000" />
+      <workItem from="1668391830521" duration="8279000" />
+      <workItem from="1668508854461" duration="9590000" />
+      <workItem from="1668564465953" duration="30071000" />
+      <workItem from="1668660690688" duration="27094000" />
+      <workItem from="1668738002263" duration="9153000" />
+      <workItem from="1668751117375" duration="23313000" />
+      <workItem from="1668823282336" duration="35458000" />
+      <workItem from="1668911484457" duration="11276000" />
+      <workItem from="1668994936654" duration="7206000" />
+      <workItem from="1669002480794" duration="38271000" />
+      <workItem from="1669086490462" duration="36871000" />
+      <workItem from="1669169092657" duration="20115000" />
+      <workItem from="1669254596762" duration="6209000" />
+      <workItem from="1669263687684" duration="48739000" />
+      <workItem from="1669431867942" duration="18143000" />
+      <workItem from="1669519065459" duration="28607000" />
+      <workItem from="1669603255890" duration="50381000" />
+      <workItem from="1669788403947" duration="13133000" />
+      <workItem from="1669805943382" duration="8721000" />
+      <workItem from="1669870589500" duration="32007000" />
+      <workItem from="1669949679773" duration="18548000" />
+      <workItem from="1670038823687" duration="2574000" />
+      <workItem from="1670041609444" duration="2499000" />
+      <workItem from="1670044746717" duration="29402000" />
+      <workItem from="1670120208901" duration="34644000" />
+      <workItem from="1670220513545" duration="63818000" />
+      <workItem from="1670380768624" duration="53471000" />
+      <workItem from="1670479924366" duration="26505000" />
+      <workItem from="1670554943755" duration="69371000" />
+      <workItem from="1670728300784" duration="2275000" />
+      <workItem from="1670730668037" duration="10697000" />
+      <workItem from="1670741527387" duration="520000" />
+      <workItem from="1670742063591" duration="262000" />
+      <workItem from="1670742335808" duration="14000" />
+      <workItem from="1670742358777" duration="1432000" />
+      <workItem from="1670743900463" duration="40698000" />
+      <workItem from="1670828968391" duration="21595000" />
+      <workItem from="1670900113516" duration="35757000" />
+      <workItem from="1670988058205" duration="70166000" />
+      <workItem from="1671157829825" duration="35024000" />
+      <workItem from="1671412858191" duration="37234000" />
+      <workItem from="1671498437912" duration="57747000" />
+      <workItem from="1671635916243" duration="82000" />
+      <workItem from="1671939427248" duration="820000" />
+      <workItem from="1672280992837" duration="4421000" />
+      <workItem from="1672750945490" duration="1473000" />
+      <workItem from="1672817133713" duration="5574000" />
+      <workItem from="1673242146314" duration="4042000" />
+      <workItem from="1673246232270" duration="4468000" />
+      <workItem from="1673253903167" duration="5819000" />
+      <workItem from="1673316342323" duration="21930000" />
+      <workItem from="1673420470527" duration="4533000" />
+      <workItem from="1673451840457" duration="179000" />
+      <workItem from="1673529099690" duration="2485000" />
+      <workItem from="1673669081223" duration="302000" />
+      <workItem from="1674043345334" duration="2386000" />
+      <workItem from="1674230945147" duration="835000" />
+      <workItem from="1674979294555" duration="13628000" />
+      <workItem from="1675002860004" duration="38000" />
+      <workItem from="1675088909836" duration="9939000" />
+      <workItem from="1675175972064" duration="4632000" />
+      <workItem from="1675303245490" duration="808000" />
+      <workItem from="1675323295554" duration="253000" />
+      <workItem from="1675331457412" duration="602000" />
+      <workItem from="1675335514661" duration="95000" />
+      <workItem from="1675583496376" duration="6277000" />
+      <workItem from="1675608033010" duration="857000" />
+      <workItem from="1675648793520" duration="3358000" />
+      <workItem from="1675687716594" duration="880000" />
+      <workItem from="1675693179685" duration="21000" />
+      <workItem from="1675693944109" duration="13000" />
+      <workItem from="1675868341350" duration="3982000" />
+      <workItem from="1675925838749" duration="973000" />
+      <workItem from="1676018619094" duration="773000" />
+      <workItem from="1676165148206" duration="7334000" />
+      <workItem from="1676262362855" duration="1891000" />
+      <workItem from="1676267280878" duration="659000" />
+      <workItem from="1676294021246" duration="779000" />
+      <workItem from="1676341043123" duration="3861000" />
+      <workItem from="1676370839148" duration="753000" />
+      <workItem from="1676445439091" duration="29000" />
+      <workItem from="1676517199378" duration="1203000" />
+      <workItem from="1676728078862" duration="372000" />
+      <workItem from="1676729043218" duration="324000" />
+      <workItem from="1676799071181" duration="4942000" />
+      <workItem from="1676857416410" duration="35736000" />
+      <workItem from="1676942177898" duration="15156000" />
+      <workItem from="1676990042382" duration="19057000" />
+      <workItem from="1677118469974" duration="22911000" />
+      <workItem from="1677205429205" duration="12717000" />
+      <workItem from="1677467210915" duration="29456000" />
+      <workItem from="1677547796737" duration="38977000" />
+      <workItem from="1677657534760" duration="41305000" />
+      <workItem from="1677755774918" duration="56724000" />
+      <workItem from="1677893989835" duration="46536000" />
+      <workItem from="1678065278226" duration="56902000" />
+      <workItem from="1678325614686" duration="73751000" />
+      <workItem from="1678608773317" duration="4097000" />
+      <workItem from="1678688333478" duration="7433000" />
+      <workItem from="1678785176112" duration="11424000" />
+      <workItem from="1678839698380" duration="11724000" />
+      <workItem from="1678889134730" duration="61909000" />
+      <workItem from="1679110517563" duration="12374000" />
+      <workItem from="1679400095802" duration="4889000" />
+      <workItem from="1679454407759" duration="19000" />
+      <workItem from="1679464425145" duration="615000" />
+      <workItem from="1679705116413" duration="2518000" />
+      <workItem from="1679707763132" duration="2220000" />
+      <workItem from="1679712142088" duration="2508000" />
+      <workItem from="1679821763985" duration="2128000" />
+      <workItem from="1679828424588" duration="1084000" />
+      <workItem from="1679985178565" duration="3934000" />
+      <workItem from="1680148592869" duration="4679000" />
+      <workItem from="1680238023421" duration="855000" />
+      <workItem from="1680253111275" duration="21214000" />
+      <workItem from="1680359553388" duration="3618000" />
+      <workItem from="1680397739642" duration="754000" />
+      <workItem from="1681043056504" duration="1486000" />
+      <workItem from="1681054439490" duration="706000" />
+      <workItem from="1681096799005" duration="1276000" />
+      <workItem from="1681706997404" duration="1731000" />
+      <workItem from="1681955950174" duration="595000" />
+      <workItem from="1681963727951" duration="2559000" />
+      <workItem from="1683959938582" duration="1739000" />
+      <workItem from="1683970361925" duration="1222000" />
+      <workItem from="1683976969763" duration="595000" />
+      <workItem from="1684392662442" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="37" key="#station_block_lstm_early" timestamp="1677810572898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="37" key="#station_block_lstm_early/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1677810572898" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1677221519453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1677221519453" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1683977569375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1681711122208" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1680363542868" />
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1683977569375" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1683977569375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1681711122208" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1680363542868" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1683977569375" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1683977569375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1681711122207" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1680363542868" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1683977569375" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1683977569375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="352" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1681711122208" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1680363542868" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1683977569375" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1677855791626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1677855791626" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1677855791626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1677855791626" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1677855791626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1677855791626" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1677855791626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1677855791626" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1683975264343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1681707070893" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1683975264343" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$06_classtxt2mapcsv.coverage" NAME="06_classtxt2mapcsv Coverage Results" MODIFIED="1678355572173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$result_only.coverage" NAME="result_only Coverage Results" MODIFIED="1681967150499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$station_lstm_only_preci.coverage" NAME="station_lstm_only_preci Coverage Results" MODIFIED="1677894382756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$day_lstm.coverage" NAME="day_lstm Coverage Results" MODIFIED="1669002669522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$05_k_means_3dim_n_s.coverage" NAME="05_k_means_3dim_n_s Coverage Results" MODIFIED="1670476515856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$07_class_copy_txt.coverage" NAME="07_class_copy_txt Coverage Results" MODIFIED="1679712841455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$station_lstm_only_preci_2.coverage" NAME="station_lstm_only_preci_2 Coverage Results" MODIFIED="1677907382725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$block_grid_lstm_2.coverage" NAME="block_grid_lstm_2 Coverage Results" MODIFIED="1670407198490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$station_block_lstm_early.coverage" NAME="station_lstm_only_preci Coverage Results" MODIFIED="1677854301695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$add_gsmap.coverage" NAME="add_gsmap Coverage Results" MODIFIED="1673344792969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$block_lstm_qizang___1_.coverage" NAME="block_lstm_qizang_无辅助因子 (1) Coverage Results" MODIFIED="1679712847158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$05_k_means_3dim_n_s_2.coverage" NAME="05_k_means_3dim_n_s_2 Coverage Results" MODIFIED="1670476181533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$07_class_copy_txt_2.coverage" NAME="07_class_copy_txt_2 Coverage Results" MODIFIED="1670399168799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$block_grid_lstm.coverage" NAME="block_grid_lstm Coverage Results" MODIFIED="1677719389284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$tf_lstm.coverage" NAME="tf_lstm Coverage Results" MODIFIED="1646139464255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10628429_ICB/tf_lstm" />
+    <SUITE FILE_PATH="coverage/$block_grid_lstm_qingzang.coverage" NAME="block_grid_lstm_qingzang Coverage Results" MODIFIED="1678110239957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$05_k_means_3dim.coverage" NAME="05_k_means_3dim Coverage Results" MODIFIED="1676808087581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$se_block.coverage" NAME="se_block Coverage Results" MODIFIED="1670932087692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$lstm.coverage" NAME="双向lstm Coverage Results" MODIFIED="1678159073396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$04_1rain_avg.coverage" NAME="04_1rain_avg Coverage Results" MODIFIED="1680156355995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$one_grid_lstm.coverage" NAME="one_grid_lstm Coverage Results" MODIFIED="1668324391461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$lstm_qinzang_.coverage" NAME="lstm_qinzang_不分块 Coverage Results" MODIFIED="1678425031600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$remove_grid.coverage" NAME="remove_grid Coverage Results" MODIFIED="1681966942756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$02_dem_txt2csv.coverage" NAME="02_dem_txt2csv Coverage Results" MODIFIED="1677505540344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$05_k_means_3dim_huatu.coverage" NAME="05_k_means_3dim_huatu Coverage Results" MODIFIED="1678355355012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$array_ops.coverage" NAME="array_ops Coverage Results" MODIFIED="1670740744191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Program Files/python 3.8/Lib/site-packages/tensorflow/python/ops" />
+    <SUITE FILE_PATH="coverage/$result_grid.coverage" NAME="result_grid Coverage Results" MODIFIED="1677991750063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$block_lstm_qizang_.coverage" NAME="block_lstm_qizang_有辅助因子 Coverage Results" MODIFIED="1679402163408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$MultiheadAttention.coverage" NAME="MultiheadAttention Coverage Results" MODIFIED="1670730459673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$read_cmpa01.coverage" NAME="read_cmpa01 Coverage Results" MODIFIED="1683977301658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$station_block_grid_lstm.coverage" NAME="station_block_grid_lstm Coverage Results" MODIFIED="1678027159232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$year_lstm.coverage" NAME="year_lstm Coverage Results" MODIFIED="1677905794779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$lstm__.coverage" NAME="优化lstm+不分块+加因子 Coverage Results" MODIFIED="1679058393496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$github.coverage" NAME="github Coverage Results" MODIFIED="1656578907038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/$06_classtxt2mapcsv_n_s.coverage" NAME="06_classtxt2mapcsv_n_s Coverage Results" MODIFIED="1670477613919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$block_grid_lstm_qingzang_only_preci__1_.coverage" NAME="block_grid_lstm_qingzang_only_preci (1) Coverage Results" MODIFIED="1678158419416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="计算标准差 Coverage Results" MODIFIED="1680255406436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$tf_lstm2.coverage" NAME="tf_lstm2 Coverage Results" MODIFIED="1646142106374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10628429_ICB/tf_lstm" />
+  </component>
+</project>
